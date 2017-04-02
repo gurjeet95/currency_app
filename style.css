@@ -1,0 +1,36 @@
+label{
+	display: block;
+	font-size: 1.8rem;
+	margin-bottom: 4px;
+}
+.main{
+	width:300px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height:auto;
+	margin:0 auto;
+	background-color: orange;
+	padding-bottom: 20px;
+}
+.main h1{
+	text-align: center;
+}
+.main input[type="text"]{
+	width:80%;
+	height:30px;
+	margin-bottom: 1rem;
+	font-size: 1.2rem;
+}
+.main #button{
+	cursor: pointer;
+	width:40%;
+	height:30px;
+	margin-bottom: 1rem;
+	font-size: 1.2rem;
+}
+.main #base_currency,#target_currency{
+	width:80%;
+	height:30px;
+	margin-bottom: 1rem;
+	font-size: 1.2rem;
+}
